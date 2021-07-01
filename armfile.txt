@@ -1,0 +1,4 @@
+hello
+enter value=digits=3
+armstrong value=153
+yes it is armstrong
