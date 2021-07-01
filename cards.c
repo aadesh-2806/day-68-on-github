@@ -2,7 +2,7 @@
 #include <assert.h>
 #include <stdlib.h>
 
-#define VALUE_ACE 14
+#define VALUE_ACE 14 
 #define VALUE_KING 13
 #define VALUE_QUEEN 12
 #define VALUE_JACK 11
